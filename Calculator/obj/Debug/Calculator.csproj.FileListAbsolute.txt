@@ -1,0 +1,8 @@
+C:\Users\gabri\Desktop\Project\CalculatorTest\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\gabri\Desktop\Project\CalculatorTest\Calculator\bin\Debug\Calculator.exe
+C:\Users\gabri\Desktop\Project\CalculatorTest\Calculator\bin\Debug\Calculator.pdb
+C:\Users\gabri\Desktop\Project\CalculatorTest\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Project\CalculatorTest\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Project\CalculatorTest\Calculator\obj\Debug\Calculator.exe
+C:\Users\gabri\Desktop\Project\CalculatorTest\Calculator\obj\Debug\Calculator.pdb
+C:\Users\gabri\Desktop\Project\CalculatorTest\Calculator\obj\Debug\Calculator.exe.config
